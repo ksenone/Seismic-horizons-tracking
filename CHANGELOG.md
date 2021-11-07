@@ -31,3 +31,9 @@
   3. [Making Seismic Interpretation Easy with SeismiQB](https://medium.com/data-analysis-center/making-seismic-interpretation-easy-with-seismiqb-ac62d01a477)
 * Просмотрены 6 часов из 14 по курсу TensorFlow на YouTube  
   [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1/2](https://www.youtube.com/watch?v=tpCFfeUEGs8&t=22153s)
+  
+ ### Изменения
+ * CHANGELOG.md
+ * unet_PyTorch.ipynb
+ * MaskCreating.ipynb
+ * images/Horizon_Mask.png
