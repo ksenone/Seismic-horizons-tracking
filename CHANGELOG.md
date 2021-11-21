@@ -35,9 +35,13 @@
   3. [Making Seismic Interpretation Easy with SeismiQB](https://medium.com/data-analysis-center/making-seismic-interpretation-easy-with-seismiqb-ac62d01a477)
 * Просмотрены 6 часов из 14 по курсу TensorFlow на YouTube  
   [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 1/2](https://www.youtube.com/watch?v=tpCFfeUEGs8&t=22153s)
+
+## v0.0.5 (2021-11-8)
+### Сделано
+* Разбиение исходных данных на квадраты с размерами 16, 64, 64 (y, x, z) и составление из них обучающей выборки
+* Проведение экспериментов на архитектуре UNet3d и оценка метрики dice coefficient
+* Реструктуризация модели под 2d архитектуру
+* Эксперименты с новой архитектурой и получение первых практически применимых результатов
   
  ### Изменения
- * CHANGELOG.md
- * unet_PyTorch.ipynb
- * MaskCreating.ipynb
- * images/Horizon_Mask.png
+ * requirements.txt
