@@ -1,2 +1,5 @@
 This is testing of git system :)
 Good Luck!
+
+Have created new branch, how cool is that!
+I'm proud of myself, really :D
